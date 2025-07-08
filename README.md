@@ -9,23 +9,23 @@ Xin chào, mình là Chính (dqc.paintings). Đây là nơi lưu trữ giáo án
 
 ## Các nội dung giảng dạy
 
-- [Giới thiệu về các chất liệu khô](gioithieu-chatlieu.md)
-- [Kỹ thuật sử dụng chất liệu] kythuat-chatlieu.md
-- [Ánh sáng và khối] lighting-structure.md
-- [Bố cục] composition.md
-- [Ý tưởng, Concept] ideas.md
+- [Giới thiệu về các chất liệu khô](03gioithieu-chatlieu.md)
+- [Kỹ thuật sử dụng chất liệu](04kythuat-chatlieu.md)
+- [Ánh sáng và khối](05lighting-structure.md)
+- [Bố cục](06composition.md)
+- [Ý tưởng, Concept](07ideas.md)
 
 ## Bài tập:
 
-- [Bài tập trên lớp] baitap-ngan.md
-- [Bài tập về nhà] baitap-dai.md
+- [Bài tập trên lớp](08baitap-ngan.md)
+- [Bài tập về nhà](09baitap-dai.md)
 
 ## Nội dung từng buổi
 
-- [B1] buoi1.md
-- [B2] buoi2.md
-- [B3] buoi3.md
-- [B4] buoi4.md
+- [B1](11buoi1.md)
+- [B2](12buoi2.md)
+- [B3](13buoi3.md)
+- [B4](14buoi4.md)
 
 ## Tài liệu tham khảo
 
