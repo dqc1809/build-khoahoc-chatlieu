@@ -8,7 +8,7 @@ Xin chào, mình là Chính (dqc.paintings). Đây là nơi lưu trữ giáo án
 
 ## Các nội dung giảng dạy
 
-- [Giới thiệu về các chất liệu khô] (gioithieu-chatlieu.md)
+- [Giới thiệu về các chất liệu khô](gioithieu-chatlieu.md)
 - [Kỹ thuật sử dụng chất liệu] kythuat-chatlieu.md
 - [Ánh sáng và khối] lighting-structure.md
 - [Bố cục] composition.md
