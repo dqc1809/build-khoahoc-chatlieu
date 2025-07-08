@@ -4,19 +4,27 @@ Xin chào, mình là Chính (dqc.paintings). Đây là nơi lưu trữ giáo án
 
 ## 📚 Tổng quan và mục tiêu khóa học
 
-- `00_tong_quan_khoa_hoc.md`: Giới thiệu khóa học, mục tiêu, cấu trúc.
-- `01_khai_niem_chat_lieu.md`: Định nghĩa, vai trò của chất liệu trong nghệ thuật.
-- `02_phan_loai_chat_lieu.md`: Phân biệt chất liệu tự nhiên, nhân tạo, biểu cảm.
-- `03_ung_dung_trong_my_thuat.md`: Cách sử dụng chất liệu để truyền tải cảm xúc, ký ức.
-- `04_thuc_hanh_sang_tac.md`: Hướng dẫn xây dựng bài tập thực hành.
-- `prompt/`: Các cuộc hội thoại với GPT, câu hỏi sáng tác.
-- `ideas/`: Ý tưởng vẽ, phác thảo, gợi ý hình ảnh.
+- tong-quan.md
+
+## Các nội dung giảng dạy
+
+- [Giới thiệu về các chất liệu khô] gioithieu-chatlieu.md
+- [Kỹ thuật sử dụng chất liệu] kythuat-chatlieu.md
+- [Ánh sáng và khối] lighting-structure.md
+- [Bố cục] composition.md
+- [Ý tưởng, Concept] ideas.md
+
+## Bài tập:
+
+- [Bài tập trên lớp] baitap-ngan.md
+- [Bài tập về nhà] baitap-dai.md
 
 ## Nội dung từng buổi
 
-- Làm nền tảng để xây dựng khóa học sáng tạo chất liệu.
-- Lưu giữ mạch tư duy dài hạn khi làm việc với GPT.
-- Kết hợp lý thuyết – trực giác – công cụ số trong nghệ thuật.
+- [B1] buoi1.md
+- [B2] buoi2.md
+- [B3] buoi3.md
+- [B4] buoi4.md
 
 ## Tài liệu tham khảo
 
