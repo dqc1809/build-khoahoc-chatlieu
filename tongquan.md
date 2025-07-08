@@ -2,7 +2,7 @@
 
 ## đối tượng học viên
 - tất cả mọi người, từ sinh viên đến người đi làm, học sinh, không nhận học sinh quá nhỏ (dưới lớp 10)
-- học viên học tại lớp thường là người tri thức và rất có "gu", và thường là đã được học qua bố cục, anh sáng, hình khối cơ bản rồi
+- học viên học tại lớp thường là người tri thức và rất có "gu", và thường là đã được học qua bố cục, ánh sáng, hình khối cơ bản
 
 ## các nội dung giảng dạy
 - lớp sẽ bao gồm 4 buổi học, mỗi buổi học sẽ học lý thuyết, làm bài tập trên lớp, chảu bài tập về nhà
