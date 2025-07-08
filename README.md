@@ -1,8 +1,8 @@
-# 🎨 Khóa học: Chất liệu trong Nghệ thuật Tạo hình
+# 🎨 Khóa học: Chất liệu chì và chất liệu khô
 
-Xin chào, mình là Chính (dqc.paintings). Đây là nơi lưu trữ giáo án, ghi chú và các cuộc thảo luận sáng tạo xoay quanh chủ đề **chất liệu** trong nghệ thuật tạo hình.
+Xin chào, mình là Chính (dqc.paintings). Đây là nơi lưu trữ giáo án, ghi chú và các cuộc thảo luận sáng tạo xoay quanh chủ đề **chất liệu chì, than** trong nghệ thuật tạo hình. GPT Copilot tích hợp trong Github sẽ được đặt tên là 'Liv' dựa theo diễn viên Liv Tyler.
 
-## 📚 Nội dung repo
+## 📚 Tổng quan và mục tiêu khóa học
 
 - `00_tong_quan_khoa_hoc.md`: Giới thiệu khóa học, mục tiêu, cấu trúc.
 - `01_khai_niem_chat_lieu.md`: Định nghĩa, vai trò của chất liệu trong nghệ thuật.
@@ -12,18 +12,16 @@ Xin chào, mình là Chính (dqc.paintings). Đây là nơi lưu trữ giáo án
 - `prompt/`: Các cuộc hội thoại với GPT, câu hỏi sáng tác.
 - `ideas/`: Ý tưởng vẽ, phác thảo, gợi ý hình ảnh.
 
-## 🎯 Mục tiêu
+## Nội dung từng buổi
 
 - Làm nền tảng để xây dựng khóa học sáng tạo chất liệu.
 - Lưu giữ mạch tư duy dài hạn khi làm việc với GPT.
 - Kết hợp lý thuyết – trực giác – công cụ số trong nghệ thuật.
+
+## Tài liệu tham khảo
 
 ## 🧑‍🎨 Tác giả
 
 - Chính (dqc.paintings)  
 - Đường đời 7 | Cung Xử Nữ | Nghệ sĩ tự do  
 - IG: [@dqc.paintings](https://instagram.com/dqc.paintings)
-
-## 📄 License
-
-MIT License
