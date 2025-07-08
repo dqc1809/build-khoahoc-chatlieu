@@ -1,0 +1,3 @@
+- giới thiệu về lịch sử ra đời của các chất liệu khô
+- giới thiệu các chất liệu sẽ sử dụng trong khóa học này: chì, than, chì than, chì màu
+- 
