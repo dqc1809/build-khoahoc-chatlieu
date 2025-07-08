@@ -4,7 +4,7 @@ Xin chào, mình là Chính (dqc.paintings). Đây là nơi lưu trữ giáo án
 
 ## 📚 Tổng quan và mục tiêu khóa học
 
-- [Tổng quan khóa học](tongquan.md)
+- [Tổng quan khóa học](01tongquan.md)
 - [Mục tiêu](muctieu.md)
 
 ## Các nội dung giảng dạy
